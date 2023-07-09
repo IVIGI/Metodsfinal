@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "metod", "metod\metod.vcxproj", "{E2A7738E-4731-4285-81A9-FAF5A0BBBC96}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "metodsek", "metodsek\metodsek.vcxproj", "{D129848C-239B-4C8E-8D77-45FEE5D03C44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "metodnyoton", "metodnyoton\metodnyoton.vcxproj", "{A7C86DD7-2B31-4C87-8602-A4652B98D486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A7738E-4731-4285-81A9-FAF5A0BBBC96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2A7738E-4731-4285-81A9-FAF5A0BBBC96}.Debug|Win32.Build.0 = Debug|Win32
+		{E2A7738E-4731-4285-81A9-FAF5A0BBBC96}.Release|Win32.ActiveCfg = Release|Win32
+		{E2A7738E-4731-4285-81A9-FAF5A0BBBC96}.Release|Win32.Build.0 = Release|Win32
+		{D129848C-239B-4C8E-8D77-45FEE5D03C44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D129848C-239B-4C8E-8D77-45FEE5D03C44}.Debug|Win32.Build.0 = Debug|Win32
+		{D129848C-239B-4C8E-8D77-45FEE5D03C44}.Release|Win32.ActiveCfg = Release|Win32
+		{D129848C-239B-4C8E-8D77-45FEE5D03C44}.Release|Win32.Build.0 = Release|Win32
+		{A7C86DD7-2B31-4C87-8602-A4652B98D486}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7C86DD7-2B31-4C87-8602-A4652B98D486}.Debug|Win32.Build.0 = Debug|Win32
+		{A7C86DD7-2B31-4C87-8602-A4652B98D486}.Release|Win32.ActiveCfg = Release|Win32
+		{A7C86DD7-2B31-4C87-8602-A4652B98D486}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
