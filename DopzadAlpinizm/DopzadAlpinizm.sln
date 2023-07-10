@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DopzadAlpinizm", "DopzadAlpinizm\DopzadAlpinizm.vcxproj", "{1CB29201-D818-48BD-ACD4-FEA36386421A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kletka", "kletka\kletka.vcxproj", "{472EBC60-DE3E-4595-91A8-256DCB74A7F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dobdialog", "dobdialog\dobdialog.vcxproj", "{92770E19-5E1C-46C6-AAAE-D06FA5E27B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB29201-D818-48BD-ACD4-FEA36386421A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CB29201-D818-48BD-ACD4-FEA36386421A}.Debug|Win32.Build.0 = Debug|Win32
+		{1CB29201-D818-48BD-ACD4-FEA36386421A}.Release|Win32.ActiveCfg = Release|Win32
+		{1CB29201-D818-48BD-ACD4-FEA36386421A}.Release|Win32.Build.0 = Release|Win32
+		{472EBC60-DE3E-4595-91A8-256DCB74A7F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{472EBC60-DE3E-4595-91A8-256DCB74A7F1}.Debug|Win32.Build.0 = Debug|Win32
+		{472EBC60-DE3E-4595-91A8-256DCB74A7F1}.Release|Win32.ActiveCfg = Release|Win32
+		{472EBC60-DE3E-4595-91A8-256DCB74A7F1}.Release|Win32.Build.0 = Release|Win32
+		{92770E19-5E1C-46C6-AAAE-D06FA5E27B79}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92770E19-5E1C-46C6-AAAE-D06FA5E27B79}.Debug|Win32.Build.0 = Debug|Win32
+		{92770E19-5E1C-46C6-AAAE-D06FA5E27B79}.Release|Win32.ActiveCfg = Release|Win32
+		{92770E19-5E1C-46C6-AAAE-D06FA5E27B79}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
